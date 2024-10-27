@@ -32,12 +32,10 @@ This project is a simple Python program that converts any user-provided word int
 3. The program will output a list of the phonetic code words for each letter in the word, based on the NATO phonetic alphabet.
 
 ### Example
-eg:1
 ```
 Enter the name?: python
 ['Papa', 'Yankee', 'Tango', 'Hotel', 'Oscar', 'November']
 
-eg:2
 Enter the name?: hello
 ['Hotel', 'Echo', 'Lima', 'Lima', 'Oscar']
 ```
